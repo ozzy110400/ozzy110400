@@ -13,6 +13,6 @@ Here is some info to get acqainted with me:
 
 
 - 🎓 I'm currently studying Mechatronics in FHWS and self educate in various areas of Software Engineering.
-##### That allows me to combine a unique specialist in myself that is capable of Mathematical Analysis, Theoretical Prediction via Physics, and implement all that in software of various kinds.
+##### All of that enables me to combine a unique specialist in myself that is capable of Mathematical Analysis, Theoretical Prediction via Physics, and implement all that in software of various kinds.
 
 ## If it is nice to read me, don't hesitate to contact me and hear in person! 😃
