@@ -9,7 +9,7 @@ Here is some info to get acqainted with me:
 - 🤔 I’m looking for help with validations on Solana Blockchain.
 - 💬 Ask me about CRUD, REST API.
 - 📫 How to reach me: email me on ozzy110400@gmail.com
-- ⚡ Fun fact: I learn so fast that in one month I could've become a Senior in any field!
+- ⚡ Fun fact: I learn so fast that in one month I could've become Senior in any field!
 - 🎓 I'm currently studying Mechatronics in FHWS and self educate in various areas of Software Engineering.
 - 🔍 Physicist since 2014.
 ##### All of that enables me to combine a unique specialist in myself that is capable of Mathematical Analysis, Theoretical Prediction via Physics, and implement all that in software of various kinds.
