@@ -17,4 +17,4 @@ Here is some info to get acqainted with me:
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="olzhas-yergali-514527242" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/olzhas-yergali-514527242?trk=profile-badge">Olzhas Yergali on Linkedin</a></div>
               
 
-## If it is nice to read me, don't hesitate to contact me and hear in person! 😃
+## If it is nice to read me, don't hesitate to contact and hear me out in person! 😃
