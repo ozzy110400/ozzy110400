@@ -1,17 +1,18 @@
 ### Hi there 👋
 #### It is nice to see you browsing here!
 
-Here is some info to get acqainted with me:
+Here is some info to get acquainted with me:
 
-- 🔭 I’m currently working on currency transfers platform in Conlybus.com
-- 🌱 I’m currently learning NNs/AI via TensorFlow, and Rust with Anchor framework.
-- 👯 I’m looking to collaborate on creating a new gen Educational Platform.
-- 🤔 I’m looking for help with validations on Solana Blockchain.
-- 💬 Ask me about CRUD, REST API.
+- 🔭 I’m currently working on Deep Neural Networks(DNNs)
+- 🌱 I’m currently learning DNNs/AI via TensorFlow and PyTorch.
+- 👯 I’m looking to collaborate on creating a Recommendation Systems in Education.
+- 🤔 I’m looking for help with Convolutional 3D Neural Networks for video classifications.
+- 💬 Ask me about Machine Learning, Combinatorial Problems with predefined goal, CRUD, REST API.
 - 📫 How to reach me: email me on ozzy110400@gmail.com
-- ⚡ Fun fact: I learn so fast that in one month I could've become Senior in any field!
-- 🎓 I'm currently studying Mechatronics in FHWS and self educate in various areas of Software Engineering.
-- 🔍 Physicist since 2014.
+- ⚡ Fun fact: I learn so fast that in one month I am able to reach median level of expertise in any field! (I love to learn)
+- 🎓 I'm currently studying Mechatronics in FHWS and self educate in various areas of Machine Learning, Software Engineering, Data Structures and Algorithms.
+- 🔍 Machine Learning Engineer since 2023, Software Engineer since 2019, Physicist since 2014.
+- 
 ##### All of that enables me to combine a unique specialist in myself that is capable of Mathematical Analysis, Theoretical Prediction via Physics, and implement all that in software of various kinds.
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="olzhas-yergali-514527242" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/olzhas-yergali-514527242?trk=profile-badge">Olzhas Yergali on Linkedin</a></div>
