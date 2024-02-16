@@ -1,7 +1,5 @@
 ### Hi there 👋
 #### It is nice to see you here!
 
-I am a talented AI engineer.
-              
+I am AI/CV engineer.
 
-## Contact me with interesting career opportunities! 😃
