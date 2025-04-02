@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozzy110400&label=Profile%20views&color=0e75b6&style=flat" alt="ozzy110400" /> </p>
 
-- 🔭 I’m currently working on **Application for PPE Warehouse**
+- 🔭 I’m currently working on **Computer Vision applications**
 
 - 🌱 I’m currently learning **Pytorch**
 
